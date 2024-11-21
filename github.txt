@@ -1,0 +1,21 @@
+git init
+git remote add origin https://github.com/Thanhnghiem123/FlappyBird.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main  # hoặc master
+
+
+
+git branch -M main
+
+
+echo "# SpaceOfWarships" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+
+
+git pull origin main --allow-unrelated-histories 
+
+
+git ls-files | grep -i library
