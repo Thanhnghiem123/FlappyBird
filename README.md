@@ -14,3 +14,6 @@ Flappy Bird là một trò chơi arcade đơn giản, nơi người chơi điề
 Nhấn phím Space hoặc click chuột trái để chú chim bay lên.
 Mỗi lần chú chim vượt qua một cặp ống, bạn sẽ ghi được một điểm.
 Cố gắng duy trì chú chim bay càng lâu càng tốt để ghi điểm cao hơn.
+
+## Link cài đặt game Android
+https://drive.google.com/drive/folders/1AkUOU-nnA39EW8BmrRrSQ1xkaP30koyP?usp=drive_link
